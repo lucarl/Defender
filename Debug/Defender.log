@@ -1,0 +1,17 @@
+﻿  avancezlib.cpp
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\avancezlib.cpp(49): warning C4244: 'return': conversion from 'unsigned int' to 'float', possible loss of data
+  component.cpp
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\component.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  defender.cpp
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\rocket.h(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\rocket.h(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\player.h(138): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\player.h(147): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\player.h(164): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\player.h(170): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\game.h(489): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
+  game_object.cpp
+c:\users\rackarmattan\id\gea\lundborg_carl_defender\defender\game_object.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Defender.vcxproj -> C:\Users\rackarmattan\ID\gea\lundborg_carl_defender\Defender\Debug\Defender.exe
